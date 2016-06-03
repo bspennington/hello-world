@@ -3,4 +3,4 @@
     - user: root
     - group: root
     - mode: 644
-    - source: salt://hello-world-dev/hello.txt
+    - source: salt://hello-world/hello.txt
